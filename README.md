@@ -10,3 +10,17 @@ The protocol of lighting control is the standard JSON format.
 ## Find the Q Station
 * [Send signals](https://github.com/BelledsQ/QStation_API/blob/master/Send_Signals)
 * [Ping](https://github.com/BelledsQ/QStation_API/blob/master/Ping)
+
+## Get the list of Q lights
+
+## Get the group list of Q lights
+
+## Get the lights in a group
+
+## Q Lights Control
+
+## Useful Controls
+
+## Group Control
+
+
