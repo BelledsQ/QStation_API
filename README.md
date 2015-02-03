@@ -1,6 +1,6 @@
 # QStation_API
 
-## Welcome to 2.4GHz Wireless Lighting Control (Q Station) Protocol API
+Welcome to 2.4GHz Wireless Lighting Control (Q Station) Protocol API
 
 Notice: This API needs MB8800 (Q Station) firmware version of r362 or above, please upgrade it to the lastest version.
 The data of lighting control trasport by UDP protocol with port number 11600.
