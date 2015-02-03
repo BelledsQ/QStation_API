@@ -19,7 +19,7 @@ The protocol of lighting control is the standard JSON format.
 
 * [Useful Controls](https://github.com/BelledsQ/QStation_API/blob/master/Settings.md)
 
-* [Group Control](https://github.com/BelledsQ/QStation_API/blob/master/QStation_API/group_setting.md)
+* [Group Control](https://github.com/BelledsQ/QStation_API/blob/master/group_setting.md)
 
 
 
