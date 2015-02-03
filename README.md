@@ -9,16 +9,17 @@ The protocol of lighting control is the standard JSON format.
 
 * [Find Q Station](https://github.com/BelledsQ/QStation_API/blob/master/Find_Q_Station)
 
-* [Get the list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/Q_Lights_List)
+* [Get the list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/List_lights)
 
-* [Get the group list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/Group_List)
+* [Get the group list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/Group_Lights)
 
-* [Get the lights in a group](https://github.com/BelledsQ/QStation_API/blob/master/Q_in_a_list)
+* [Get the lights in a group](https://github.com/BelledsQ/QStation_API/blob/master/get_group_lights)
 
-* [Q Lights Control](https://github.com/BelledsQ/QStation_API/blob/master/Q_Lights_Control)
+* [Q Lights Control](https://github.com/BelledsQ/QStation_API/blob/master/light_control)
 
-* [Useful Controls](https://github.com/BelledsQ/QStation_API/blob/master/Useful_Control)
+* [Useful Controls](https://github.com/BelledsQ/QStation_API/blob/master/settings)
 
-* [Group Control](https://github.com/BelledsQ/QStation_API/blob/master/Group_Control)
+* [Group Control](https://github.com/BelledsQ/QStation_API/blob/master/Group_settings)
+
 
 
