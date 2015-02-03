@@ -21,15 +21,15 @@ Response:
 ]}
 ```
 
-Effect:8 represents white light mode, 9 represents color light mode
-R: red light value, [0-255]
-G: green light value, [0-255]
-B: blue light value, [0-255]
-Bright: brightness value
-Angle: hue value
-Group_title: name of the lights group, editable
-lswitch: 1 represents on, 0 represents off
-group_id: group number
+- Effect:8 represents white light mode, 9 represents color light mode
+- R: red light value, [0-255]
+- G: green light value, [0-255]
+- B: blue light value, [0-255]
+- Bright: brightness value
+- Angle: hue value
+- Group_title: name of the lights group, editable
+- lswitch: 1 represents on, 0 represents off
+- group_id: group number
 
 ## Example
 ```js
