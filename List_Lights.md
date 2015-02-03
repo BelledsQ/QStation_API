@@ -25,8 +25,17 @@
 ```
 
 - msync_switch: switch of music group，default status is on (“msync_switch”:”1”)，stands for allow the leds change the color or lightness with the music
-- Online
-
+- Online: led is online or offline，1stands for online，0 stands for offline，2 stands for the led was matched but has deleted 
+- Sn:	the number of a led
+- Title：led label，can be renamed by user,length:0-128
+- Iswitch：the status of led，1 stands for on，0 stands for off
+- R: color led red value, [0-255]
+- G: color led green value, [0-255]
+- B: color led blue value, [0-255]
+- Bright: brightness, [0-255]
+- Effect: mode of lights: 8 represents white light, 9 is color lights
+- Angle: hue value
+- music_sync: 1 represents that lights do not sync with music, 0 represents that lights sync with music
 
 ## Example
 ```js
