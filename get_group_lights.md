@@ -1,8 +1,8 @@
 Command:
 ```js
 {
-“cmd”:” group_leds_list”,
-”group_id”:”<groupID>”
+"cmd":"group_leds_list",
+"group_id":"<groupID>"
 }
 ```
 Response:
