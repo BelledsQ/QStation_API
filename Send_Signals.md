@@ -9,3 +9,12 @@ router sn: sn number of Q Station
 
 router IP: IP address of Q Station
 
+```js
+  {
+      "cmd":"ping"
+  }
+  ```
+  Response:
+  ```js
+  belleds,<router sn>,<router ip>
+```
