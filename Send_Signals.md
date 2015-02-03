@@ -16,5 +16,5 @@ router IP: IP address of Q Station
   ```
   Response:
   ```js
-  belleds,<router sn>,<router ip>
+  "belleds,<router sn>,<router ip>"
 ```
