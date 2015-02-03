@@ -32,6 +32,7 @@ lswitch: 1 represents on, 0 represents off
 group_id: group number
 
 ## Example
+```js
 {
  "data":
  [ { 
@@ -55,4 +56,4 @@ group_id: group number
 "group_id": "1" 
 } ] 
 }
-
+```
