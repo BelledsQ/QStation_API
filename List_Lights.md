@@ -23,6 +23,9 @@
 "music_sync": "<syncStatus>" 
 }
 ```
+
+msync_switch: : switch of music group，default status is on (“msync_switch”:”1”)，stands for allow the leds change the color or lightness with the music 
+
 ## Example
 ```js
 { 
