@@ -9,9 +9,9 @@ The protocol of lighting control is the standard JSON format.
 
 * [Find Q Station](https://github.com/BelledsQ/QStation_API/blob/master/Find_Q_Station)
 
-* [Get the list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/List_lights)
+* [Get the list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/List_Lights.md)
 
-* [Get the group list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/Group_Lights)
+* [Get the group list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/get_group_lights.md)
 
 * [Get the lights in a group](https://github.com/BelledsQ/QStation_API/blob/master/get_group_lights)
 
