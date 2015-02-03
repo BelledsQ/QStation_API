@@ -7,7 +7,7 @@ The data of lighting control trasport by UDP protocol with port number 11600.
 
 The protocol of lighting control is the standard JSON format. 
 
-* [Find Q Station](https://github.com/BelledsQ/QStation_API/blob/master/Find_Q_Station)
+* [Find Q Station](https://github.com/BelledsQ/QStation_API/blob/master/Find_Q_Station.md)
 
 * [Get the list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/List_Lights.md)
 
