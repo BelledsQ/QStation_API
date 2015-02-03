@@ -13,7 +13,7 @@ The protocol of lighting control is the standard JSON format.
 
 * [Get the group list of Q lights](https://github.com/BelledsQ/QStation_API/blob/master/get_group_lights.md)
 
-* [Get the lights in a group](https://github.com/BelledsQ/QStation_API/blob/master/get_group_lights)
+* [Get the lights in a group](https://github.com/BelledsQ/QStation_API/blob/master/group_lights.md)
 
 * [Q Lights Control](https://github.com/BelledsQ/QStation_API/blob/master/light_control.md)
 
