@@ -1,18 +1,18 @@
 Command:
 ```js
 {
-“cmd”:”light_ctrl”,
-”r”:”<redValue>”, 
-”g”:”<greenValue>”, 
-”b”:”<blueValue>”, 
-”bright”:”<brightValue>”, 
-”effect”:”<effectValue>”, 
-”iswitch”:”<ledStatus>”, 
-”matchValue”:”<Value>”,
-”sn_list”:
+"cmd":"light_ctrl",
+"r":"<redValue>", 
+"g":"<greenValue>", 
+"b":"<blueValue>", 
+"bright":"<brightValue>", 
+"effect":"<effectValue>", 
+"iswitch":"<ledStatus>", 
+"matchValue":"<Value>",
+"sn_list":
 [
-{“sn”:”<sn1>”},
-{“sn”:”<sn2>”}…
+{"sn":"<sn1>"},
+{"sn":"<sn2>"}…
 ]
 }
 ```
@@ -35,7 +35,7 @@ No responses. If the light is powered on and under the distance of control, it w
 "bright": "50", 
 "r": "218", 
 "sn_list": 
-[ { "sn": “MD1AC43300000086”} ], 
+[ { "sn": "MD1AC43300000086"} ], 
 "matchValue": "0", 
 "iswitch": "1" 
 }
