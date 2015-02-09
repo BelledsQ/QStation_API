@@ -20,7 +20,7 @@
 "bright": "<lightness>",
 "effect": "<model>",
 "angle": "<colorAngle>",
-"music_sync": "<syncStatus>" 
+"music_sync": "<syncStatus>"]
 }
 ```
 
