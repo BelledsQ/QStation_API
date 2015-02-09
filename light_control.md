@@ -32,7 +32,6 @@ No responses. If the light is powered on and under the distance of control, it w
 ```js
 { 
 "g": "255", 
-"model": "6", 
 "cmd": "light_ctrl", 
 "b": "0", 
 "effect": "9", 
