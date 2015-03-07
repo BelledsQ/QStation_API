@@ -1,4 +1,4 @@
-### If you devices (smart phone or computer) are not connected to Q Station(MB8800)'s network
+### If your devices (smart phone or computer) are not connected to Q Station(MB8800)'s network
 
 - Port: 11608
 - IP: 224.0.0.88
